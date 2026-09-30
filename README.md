@@ -47,6 +47,17 @@ Activation-Function-Analysis/
 
 ---
 
+## Analysis Workflow
+
+The diagram outlines activation function implementation,
+curve and derivative analysis, and experiments covering output
+distributions, vanishing gradients, dead neurons, and efficiency.
+
+![Activation function analysis workflow](analysis-workflow.png)
+
+[View full-size diagram](analysis-workflow.png)
+
+---
 ## Experimental Phases
 
 ### 1. Implementation of Activation Functions
